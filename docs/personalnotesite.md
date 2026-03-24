@@ -1,4 +1,4 @@
-# 📘 Personal Notes Site — GitHub + Docusaurus Setup Guide
+# Personal Notes Site — GitHub + Docusaurus Setup Guide
 
 ## Overview
 
